@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository has been deprecated in favor of the extensions being default included in: https://github.com/Paymenter/Paymenter/tree/master/extensions
+
 # Extensions
 All public extensions for Paymenter
 
